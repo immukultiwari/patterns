@@ -1,3 +1,4 @@
+//making a pyramid pattern of  numbers.
 #include <iostream>
 using namespace std;
 int main(){
